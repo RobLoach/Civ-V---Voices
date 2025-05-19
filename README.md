@@ -6,9 +6,13 @@ Provides some of Civ V's quotes in [Unciv](https://github.com/yairm210/Unciv).
 
 ## Features
 
-- Technology Quotes
-- Wonder Quotes
-- Create an issue to request more
+- [x] Technology Quotes
+- [x] Wonder Quotes
+- [x] Leader Quotes
+- [ ] City Sounds
+- [ ] Unit Sounds
+
+Create an issue to request more.
 
 ## See Also
 
