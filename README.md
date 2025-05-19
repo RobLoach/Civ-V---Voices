@@ -1,6 +1,6 @@
 # Civ V Sounds for Unciv
 
-Provides some of Civ V's quotes in [Unciv](https://github.com/yairm210/Unciv).
+Provides Civ V's Technology and Wonder quotes, along with Leader dialog, in [Unciv](https://github.com/yairm210/Unciv).
 
 ![Preview](preview.png)
 
@@ -48,3 +48,4 @@ Create an issue to request more.
   - `hatehello.mp3` > `Nation.hateHello.mp3`
   - `request.mp3` > `Nation.tradeRequest.mp3`
   - `declarewar.mp3` > `Nation.declaringWar.mp3`
+- Use `process.sh` to normalize the audio for the mp3 files
