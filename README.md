@@ -48,3 +48,9 @@ Create an issue to request more.
   - `hatehello.mp3` > `Nation.hateHello.mp3`
   - `request.mp3` > `Nation.tradeRequest.mp3`
   - `declarewar.mp3` > `Nation.declaringWar.mp3`
+
+### Compression
+
+```
+for f in ./*.mp3; do ffmpeg -i "$f" -q:a 5 -ar 24000 -filter:a volumedetect -joint_stereo 1  "${f/%mp3/ogg}"; done
+```
