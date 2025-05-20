@@ -4,10 +4,6 @@ Adds Civ V's Technology and Wonder quotes, along with Leader dialog voices, in [
 
 ![Preview](preview.png)
 
-## See Also
-
-- [Civ V Music Pack](https://github.com/Kurwizimi/Civ-V-Music-Pack)
-
 ## Features
 
 - [x] Technology Quotes
@@ -26,6 +22,10 @@ Adds Civ V's Technology and Wonder quotes, along with Leader dialog voices, in [
 4. Search for "Voices", or "Civ V Voices"
 5. Download and install
 6. Enable "Permanent audiovisual mod"
+
+## See Also
+
+- [Civ V Music Pack](https://github.com/Kurwizimi/Civ-V-Music-Pack)
 
 ## Development
 
