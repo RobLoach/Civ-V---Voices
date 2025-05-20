@@ -1,6 +1,6 @@
-# Civ V Sounds for Unciv
+# Civ V Voices for Unciv
 
-Provides Civ V's Technology and Wonder quotes, along with Leader dialog, in [Unciv](https://github.com/yairm210/Unciv).
+Provides Civ V's Technology and Wonder quotes, along with Leader dialog voices, in [Unciv](https://github.com/yairm210/Unciv).
 
 ![Preview](preview.png)
 
