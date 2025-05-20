@@ -6,6 +6,9 @@ Provides Civ V's Technology and Wonder quotes, along with Leader dialog voices, 
 
 ## Features
 
+- [x] Vanilla
+- [x] Gods & Kings
+- [x] [Brave New World](https://github.com/RobLoach/Civ-V-Brave-New-World)
 - [x] Technology Quotes
 - [x] Wonder Quotes
 - [x] Leader Quotes
