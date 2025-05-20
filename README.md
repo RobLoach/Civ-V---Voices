@@ -1,29 +1,29 @@
 # Civ V Voices for Unciv
 
-Provides Civ V's Technology and Wonder quotes, along with Leader dialog voices, in [Unciv](https://github.com/yairm210/Unciv).
+Adds Civ V's Technology and Wonder quotes, along with Leader dialog voices, in [Unciv](https://github.com/yairm210/Unciv).
 
 ![Preview](preview.png)
+
+## See Also
+
+- [Civ V Music Pack](https://github.com/Kurwizimi/Civ-V-Music-Pack)
 
 ## Features
 
 - [x] Technology Quotes
 - [x] Wonder Quotes
-- [x] Leader Quotes
-- [x] Vanilla
-- [x] Gods & Kings
-- [x] [Brave New World](https://github.com/RobLoach/Civ-V-Brave-New-World)
-- [ ] Add your idea in the [issue queue](https://github.com/RobLoach/Civ-V-Voices/issues)
-
-## See Also
-
-- [Civ V Music Pack](https://github.com/Kurwizimi/Civ-V-Music-Pack)
+- [x] Leader Dialog
+- [x] Coverage for Vanilla
+- [x] Coverage for Gods & Kings
+- [x] Coverage for [Brave New World](https://github.com/RobLoach/Civ-V-Brave-New-World)
+- [ ] Add your ideas in the [issue queue](https://github.com/RobLoach/Civ-V-Voices/issues)!
 
 ## Installation
 
 1. Open Unciv
 2. Open the Mods menu
 3. Click Sort and Filter
-4. Search for "Civ V Sounds"
+4. Search for "Voices", or "Civ V Voices"
 5. Download and install
 6. Enable "Permanent audiovisual mod"
 
@@ -48,4 +48,4 @@ Provides Civ V's Technology and Wonder quotes, along with Leader dialog voices, 
   - `hatehello.mp3` > `Nation.hateHello.mp3`
   - `request.mp3` > `Nation.tradeRequest.mp3`
   - `declarewar.mp3` > `Nation.declaringWar.mp3`
-- Use `process.sh` to normalize the audio for the mp3 files
+- Use `src/process.sh` to normalize the audio for the mp3 files
