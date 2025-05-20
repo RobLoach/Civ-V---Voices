@@ -6,16 +6,13 @@ Provides Civ V's Technology and Wonder quotes, along with Leader dialog voices, 
 
 ## Features
 
-- [x] Vanilla
-- [x] Gods & Kings
-- [x] [Brave New World](https://github.com/RobLoach/Civ-V-Brave-New-World)
 - [x] Technology Quotes
 - [x] Wonder Quotes
 - [x] Leader Quotes
-- [ ] City Sounds
-- [ ] Unit Sounds
-
-Create an issue to request more.
+- [x] Vanilla
+- [x] Gods & Kings
+- [x] [Brave New World](https://github.com/RobLoach/Civ-V-Brave-New-World)
+- [ ] Add your idea in the [issue queue](https://github.com/RobLoach/Civ-V-Voices/issues)
 
 ## See Also
 
