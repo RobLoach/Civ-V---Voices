@@ -6,14 +6,12 @@ Adds Civ V's Technology and Wonder quotes, along with Leader dialog voices, in [
 
 ## Features
 
-- [x] Technology Quotes
-- [x] Wonder Quotes
-- [x] Leader Dialog
-- [x] Nation Intro Quotes
-- [x] Coverage for Vanilla
-- [x] Coverage for Gods & Kings
-- [x] Coverage for [Brave New World](https://github.com/RobLoach/Civ-V-Brave-New-World)
-- [ ] Add your ideas in the [issue queue](https://github.com/RobLoach/Civ-V-Voices/issues)!
+- Technology Quotes
+- Wonder Quotes
+- Leader Dialog
+- Nation Intro Quotes
+- Covers Vanilla, Gods & Kings, [Brave New World](https://github.com/RobLoach/Civ-V-Brave-New-World)
+- Add your ideas in the [issue queue](https://github.com/RobLoach/Civ-V-Voices/issues)
 
 ## Installation
 
